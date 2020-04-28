@@ -8,7 +8,7 @@ Code to accompany our paper:
 
 **Improved Image Wasserstein Attacks and Defenses**  
 *J. Edward Hu, Adith Swaminathan, Hadi Salman, Greg Yang.*  
-[[Link to Manuscript]](https://edwardjhu.com/wass)
+[[arXiv Link to Manuscript]](https://arxiv.org/abs/2004.12478)
 
 We introduce a better-defined Wasserstein threat model for images and propose a significantly stronger attack.
 
@@ -131,4 +131,4 @@ or adversarially trained Wasserstein robust models:
 
 Our code is based on [Wong et al. (2019)](https://arxiv.org/abs/1902.07906), whose repo can be found [here](https://github.com/locuslab/projected_sinkhorn).
 
-[[Click here to access our manuscript]](https://edwardjhu.com/wass)
+[[Click here to access our manuscript]](https://arxiv.org/abs/2004.12478)
